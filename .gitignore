@@ -207,5 +207,5 @@ poetry.toml
 pyrightconfig.json
 
 나는파이썬으로머신러닝한다1_ppt/
-
+*.csv
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
